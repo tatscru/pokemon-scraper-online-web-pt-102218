@@ -15,6 +15,8 @@ class Pokemon
     pokemon_find = db.execute("SELECT * FROM pokemon WHERE id = #{id}")
     Pokemon.new (
       id: 
+      name: 
+      type: 
       )
     
   end 
