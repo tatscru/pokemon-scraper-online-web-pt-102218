@@ -17,8 +17,6 @@ class Pokemon
       id: pokemon_find[0],
       name: pokemon_find[1],
       type: pokemon_find[2],
-      db: db
-   
-    
+      db: db)
   end 
 end
