@@ -19,8 +19,5 @@ class Pokemon
       type: [2], 
       db: db)
   end
-  
-
-  end
 
 end
