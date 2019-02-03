@@ -16,7 +16,7 @@ class Pokemon
       id: [0], 
       name: [1], 
       type: [2], 
-      db: db )
+      db: db)
   end
   
 
