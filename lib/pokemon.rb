@@ -13,7 +13,7 @@ class Pokemon
   
   def self.find (id, db)
     pokemon_find = db.execute("SELECT * FROM pokemon WHERE id = #{id}")
-    new_pokemon = self.new(pokemon)
+    Pokemon.new 
     
   end 
 end
