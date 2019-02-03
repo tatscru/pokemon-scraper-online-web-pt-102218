@@ -17,7 +17,8 @@ class Pokemon
       id: 
       name: 
       type: 
-      db: db)
+      db: db
+      )
     
   end 
 end
