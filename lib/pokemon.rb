@@ -10,6 +10,6 @@ class Pokemon
   end 
   
   def self.find 
-    pokemon.execute = 
+    pokemon = database.execute 
   end 
 end
